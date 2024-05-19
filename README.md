@@ -1,0 +1,2 @@
+# These are my solutions to [code@lths](https://codeatlth.org/) 2024 [hackathon](https://codeatlth.org/events/2024-05-19-lthchallenge/)
+## The problems can be found at https://lthchallenge24.kattis.com/contests/lthchallenge24/problems
